@@ -9,7 +9,7 @@ It displays the current weather conditions, an hourly forecast, and supports bot
 
 - Search weather by city name
 - Fetch weather using your current location
-- 🌤Displays real-time temperature, weather description, and weather icons
+- Displays real-time temperature, weather description, and weather icons
 - Shows hourly forecast for the next 24 hours
 - Responsive design — works perfectly on desktop and mobile
 - Built with pure HTML, CSS, and JavaScript
